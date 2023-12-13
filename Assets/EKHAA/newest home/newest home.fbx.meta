@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 6173719f036981f4fb4951db70fbfa54
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface13
+    second: {fileID: 2100000, guid: ab590bfb171770045b0300965ca7b63a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface14
+    second: {fileID: 2100000, guid: 8ca25165582b1f54bbd6ed776a594381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface15
+    second: {fileID: 2100000, guid: a7d257736f68115478938b61bfe4b381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface16
+    second: {fileID: 2100000, guid: a816e21ae789c904e964e64da797395c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface18
+    second: {fileID: 2100000, guid: 05376bd5311fd6c4dba3168a8d168410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface3
+    second: {fileID: 2100000, guid: 0d731eae0bfc3ab4ca643cf89b08b80e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface38
+    second: {fileID: 2100000, guid: 027feaa4017a9fd43bd2c8b8576451c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface39
+    second: {fileID: 2100000, guid: 5b12e5659f362604b9c8044af83c5673, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface40
+    second: {fileID: 2100000, guid: 39356344b8689c542aeb526b0ced777e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface41
+    second: {fileID: 2100000, guid: 093a1d7017705bf4297041bb8bcaa024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface42
+    second: {fileID: 2100000, guid: b2520a0da35bc324da58e0d401984ab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface43
+    second: {fileID: 2100000, guid: b5fc872e4657f124ea98ca913b6fd9cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface44
+    second: {fileID: 2100000, guid: 482373fa6bb871b4f8e58cfd23b961b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface45
+    second: {fileID: 2100000, guid: 1bd0ed961055b4a49aba535fa5f8efd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface46
+    second: {fileID: 2100000, guid: 7c478612040fff9499b208c3efcd151d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface47
+    second: {fileID: 2100000, guid: 9e1b8d2edeee63a4eaa7567f6ac25634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface48
+    second: {fileID: 2100000, guid: f9c8ec5dd3f1c8f44bc2b6aa7517ea73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 8877bc3ea3fc99548b753f6bfba3f704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair_wire_086086088
+    second: {fileID: 2100000, guid: 4c2e9044c86e8df4c86fff509229c662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair_wire_086086089
+    second: {fileID: 2100000, guid: fcb644f5b014c914cbc8e968a14e26de, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: floor_lambert56SG_BaseColor
+    second: {fileID: 2800000, guid: 6aff984b3649cb9499c33425316370ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: floor_lambert56SG_Normal
+    second: {fileID: 2800000, guid: d6f8ac553131dfb408969bb07386ff90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: floor_lambert56SG_Roughness
+    second: {fileID: 2800000, guid: e27b14232aa4bcc4fa49242104b3714e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: frist floor_lambert58SG_BaseColor
+    second: {fileID: 2800000, guid: 86c020c0d8f0b254883e8555a770ef39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: frist floor_lambert58SG_Normal
+    second: {fileID: 2800000, guid: 6999a691cc6780e43b1e36c47327ebe1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: frist floor_lambert58SG_Roughness
+    second: {fileID: 2800000, guid: 36ce42e5afca20847ba5d85831eb36ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall door living room_lambert52SG_BaseColor
+    second: {fileID: 2800000, guid: 434bf4bc9026cb2489c80ee8b4bc43e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall door living room_lambert52SG_Normal
+    second: {fileID: 2800000, guid: 92322b3f0af5f924eb20a8df9fdbfbc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall door living room_lambert52SG_Roughness
+    second: {fileID: 2800000, guid: b5d8fda72522cdf48bb5540e6d0d750c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall living room_lambert54SG_BaseColor
+    second: {fileID: 2800000, guid: 21d4661c0ef7d2d44919eb3ed85511bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall living room_lambert54SG_Normal
+    second: {fileID: 2800000, guid: a7315afdfd1d5774f979fb3fb4de557c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall living room_lambert54SG_Roughness
+    second: {fileID: 2800000, guid: 8e260f94589929c469c247f3470ba9b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_1_lambert47SG_BaseColor
+    second: {fileID: 2800000, guid: b375b60953a27924b9ca3a648768b923, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_1_lambert47SG_Normal
+    second: {fileID: 2800000, guid: d1bc0aea9c09ff7469adc840b7bd0573, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_1_lambert47SG_Roughness
+    second: {fileID: 2800000, guid: b8227a04933810e49925138b06586f47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_2_lambert48SG_BaseColor
+    second: {fileID: 2800000, guid: 97c4028c1cb40cb4abe0d0c3dd63289c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_2_lambert48SG_Normal
+    second: {fileID: 2800000, guid: 1274641935e1d814c9bf5d8b7f747eaa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_2_lambert48SG_Roughness
+    second: {fileID: 2800000, guid: 4fc6e0bb3ea5df8459f93c532d1d7bc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_3_lambert49SG_BaseColor
+    second: {fileID: 2800000, guid: 78468281f71b0d042b808abc835002a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_3_lambert49SG_Normal
+    second: {fileID: 2800000, guid: bc8eb55a21bbb2a42837a884ee08517b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_3_lambert49SG_Roughness
+    second: {fileID: 2800000, guid: bc271fee591cc02418b8ff980c567f8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_4_lambert50SG_BaseColor
+    second: {fileID: 2800000, guid: 62d51efcdb8e16e4cb807dca511c36c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_4_lambert50SG_Normal
+    second: {fileID: 2800000, guid: b9f530b8c5355ca4f893aa49608346b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_4_lambert50SG_Roughness
+    second: {fileID: 2800000, guid: 9246b0f18433bdc4f9c2797b2b09aa75, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
