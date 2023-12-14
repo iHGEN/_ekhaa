@@ -11,6 +11,9 @@ public class ELEVATOR : MonoBehaviour
     [SerializeField] Vector3 _upper_door;
     [SerializeField] Animator _door_animator;
     [SerializeField] GameObject _cover;
+    [SerializeField] AudioSource audioSource;
+    [SerializeField] AudioClip _elevator_sound;
+    [SerializeField] float sound_delay;
     Vector3 _base_floor;
     Vector3 _base_door;
     public bool _is_door_open = false;
@@ -34,6 +37,11 @@ public class ELEVATOR : MonoBehaviour
             _start = false;
         }
     }
+    IEnumerator audiodelay(float time)
+    {
+        yield return new WaitForSeconds(time);
+        audioSource.PlayOneShot(_elevator_sound);
+    }
     void door_detect()
     {
         if (Vector3.Distance(transform.position, _elevator.transform.position) < _distance)
@@ -42,6 +50,7 @@ public class ELEVATOR : MonoBehaviour
             {
                 _is_door_open = true;
                 _door_animator.SetTrigger("open");
+                StartCoroutine(audiodelay(sound_delay));
             }
         }
         else
