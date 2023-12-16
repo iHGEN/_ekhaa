@@ -13,6 +13,7 @@ public class AnimationController : MonoBehaviour
 
     public AudioClip[] audioClips; // Array of audio clips
     private AudioSource audioSource;
+    public place_detect place_Detect;
     // Start is called before the first frame update
     void Start()
     {
@@ -66,10 +67,9 @@ public class AnimationController : MonoBehaviour
         AnimationCup.SetActive(true);
         
     }
-
     public void HideAnimationDallahAndDisplayNormalDallah()
     {
-
+        place_Detect.is_finish = true;
         NormalDallah.SetActive(true);
         AnimationDallah.SetActive(false);
     }
